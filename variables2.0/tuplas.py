@@ -18,3 +18,5 @@ familia2 = frozenset(["isaac, Luis"])
 familia1 = familia2,"juan"
 
 print(type(familia1))
+
+

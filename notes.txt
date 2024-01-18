@@ -1,0 +1,75 @@
+Variables
+F strings 
+Snakecase
+
+
+
+Tipos de Datos
+Datos Compuestos
+list[]
+tuple()
+dictionary {
+‘nombre’ = “Isaac”,
+‘apellido’ = “Sanchez”
+}
+Datos Simples
+String
+Number(int, float)
+Boolean
+
+
+
+Operadores
+De pertenencia
+Aritmeticos
+Logicos(and, or, not)
+De Comparacion
+
+
+
+Condicionales
+If else
+Elif
+
+
+
+Inputs
+input()
+
+
+
+Metodos (dir para ver comandos)
+Métodos de cadenas:
+Upper, Lower, Capitalize, find, index, isnumeric, isaplha, len, count, startswith, endswith, replace, split
+Métodos list
+List, Len, Append, insert, extend, pop, remove, clear, sort, reverse, index
+Métodos dict
+Get Keys pop clear Items
+
+
+
+Variables 2.0
+Desempaquetado(list,tuple)
+Padre,Hijo = Tuple
+
+Tuplas
+tuple()
+tupla = “Isaac”,Josue
+tupla2 = “Isaac”,
+
+Set
+Set()
+frozentset()
+issuperset()
+issubset()
+isdisjoint()
+
+Dictionary
+dictdict(nombre="lucas",apellido="dalto")
+frozenset para meter un set dentro de un dict
+Cambiar valor a none o a uno en especifico
+
+
+
+For
+Iterar = Recorrer cada elemento de una secuencia
