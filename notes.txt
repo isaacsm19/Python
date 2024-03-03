@@ -65,7 +65,7 @@ issubset()
 isdisjoint()
 
 Dictionary
-dictdict(nombre="lucas",apellido="dalto")
+dictdict(nombre="Isaac",apellido="Sanchez")
 frozenset para meter un set dentro de un dict
 Cambiar valor a none o a uno en especifico
 

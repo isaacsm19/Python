@@ -1,8 +1,8 @@
 #creando diccionarios con dict()
-diccionario = dict(nombre="lucas",apellido="dalto")
+diccionario = dict(nombre="Isaac",apellido="Sanchez")
 
 #las listas no pueden ser claves y usamos frozenset para meter conjuntos
-diccionario = {frozenset(["dalto","rancio" ]):"jajas"}
+diccionario = {frozenset(["Sanchez","rancio" ]):"jajas"}
 
 #creando diccionarios con fromkeys() valor por defecto: none
 diccionario = dict.fromkeys(["nombre","apellido"])

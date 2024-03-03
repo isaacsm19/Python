@@ -1,5 +1,5 @@
-# contraseña_almacenada = "DaltoMaestro"
-# contraseña_escrita = '''DaltoMaestro'''
+# contraseña_almacenada = "SanchezMaestro"
+# contraseña_escrita = '''SanchezMaestro'''
 
 # if contraseña_almacenada == contraseña_escrita:
 #     print("INICIANDO SESIÒN...")
