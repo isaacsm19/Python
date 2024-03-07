@@ -1,5 +1,5 @@
 #creando diccionarios con dict()
-diccionario = dict(nombre="Isaac",apellido="Sanchez")
+diccionario = dict(nombre="isaac",apellido="Sanchez")
 
 #las listas no pueden ser claves y usamos frozenset para meter conjuntos
 diccionario = {frozenset(["Sanchez","rancio" ]):"jajas"}

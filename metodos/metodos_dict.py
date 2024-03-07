@@ -1,5 +1,5 @@
 diccionario = {
-    "nombre" : 'Isaac',
+    "nombre" : 'isaac',
     "apellido" : 'Sanchez',
     "subs" : 1000000
 }

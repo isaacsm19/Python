@@ -1,3 +1,3 @@
 import paquete.saludar
 
-print(paquete.saludar.saludar("dalto"))
+print(paquete.saludar.saludar("sanchez"))

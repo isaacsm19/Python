@@ -1,6 +1,6 @@
 #2 listas, una con nombres otra con apellidos
-nombres = ["Lucas","Matias","Camila","Pedro","Roberto"]
-apellidos = ["Dalto","Zing","Dalto","Robetix","tarado"]
+nombres = ["isaac","Matias","Camila","Pedro","Roberto"]
+apellidos = ["sanchez","Zing","sanchez","Robetix","tarado"]
 
 #Registrar esta información en un TXT de forma óptima
 

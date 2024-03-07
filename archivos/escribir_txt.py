@@ -1,4 +1,4 @@
-with open('archivos\\texto_de_dalto.txt','w',encoding="UTF-8") as archivo:
+with open('archivos\\texto_de_sanchez.txt','w',encoding="UTF-8") as archivo:
     #sobreescribiendo el archivo
     #archivo.write("Jajajajaa te la recontra teclee")
     

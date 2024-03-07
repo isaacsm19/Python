@@ -3,8 +3,8 @@
 
 import sys
 
-sys.path.append("c:\\Users\\Rainbow 6\\Desktop\\Curso de Python DALTO\\funciones_buenas")
+sys.path.append("c:\\Users\\Rainbow 6\\Desktop\\Curso de Python sanchez\\funciones_buenas")
 
 import saludar as modulo_saludo
 
-print(modulo_saludo.saludar("Dalto"))
+print(modulo_saludo.saludar("sanchez"))

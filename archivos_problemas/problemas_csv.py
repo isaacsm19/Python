@@ -8,8 +8,8 @@ df['edad'] = df['edad'].astype(str)
 #mostrar el tipo de dato del primer elemento de la columna edad
 #print(type(df['edad'][0]))
 
-#remplazando los datos "dalto" por "Maestro"
-df['apellido'].replace("dalto","maestro",inplace=True)
+#remplazando los datos "sanchez" por "Maestro"
+df['apellido'].replace("sanchez","maestro",inplace=True)
 
 #eliminando las filas con datos faltantes
 df = df.dropna()

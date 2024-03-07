@@ -9,7 +9,7 @@ Datos Compuestos
 list[]
 tuple()
 dictionary {
-‘nombre’ = “Isaac”,
+‘nombre’ = “isaac”,
 ‘apellido’ = “Sanchez”
 }
 Datos Simples
@@ -54,8 +54,8 @@ Padre,Hijo = Tuple
 
 Tuplas
 tuple()
-tupla = “Isaac”,Josue
-tupla2 = “Isaac”,
+tupla = “isaac”,Josue
+tupla2 = “isaac”,
 
 Set
 Set()
@@ -65,7 +65,7 @@ issubset()
 isdisjoint()
 
 Dictionary
-dictdict(nombre="Isaac",apellido="Sanchez")
+dictdict(nombre="isaac",apellido="Sanchez")
 frozenset para meter un set dentro de un dict
 Cambiar valor a none o a uno en especifico
 

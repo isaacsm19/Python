@@ -1,7 +1,7 @@
 
 #creando una funciòn simple
 #def saludar():
-#   print("Hola Isaac, mi maestro ¿Como andas?")
+#   print("Hola isaac, mi maestro ¿Como andas?")
     
 #ejecutando la funcion simple
 #saludar()

@@ -1,6 +1,6 @@
 import re
 
-text = "Este es un ejemplo de una página web: https://proyectodalto.com y también podemos visitar http://example.org"
+text = "Este es un ejemplo de una página web: https://proyectosanchez.com y también podemos visitar http://example.org"
 
 pattern = "https?://[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}"
 

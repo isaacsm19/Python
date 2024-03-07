@@ -18,6 +18,6 @@ resultado2 = suma_total([5,3,9,10,20,3])
 def suma(nombre,*numeros):
     return f"{nombre}, la suma de tus numeros es: {sum(numeros)}"
     
-resultado = suma("Isaac",5,3,9,10,20,3)
+resultado = suma("isaac",5,3,9,10,20,3)
 
 print(resultado)

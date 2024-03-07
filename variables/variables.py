@@ -4,13 +4,13 @@
 # #print(numero)
 
 # #Variable con camelCase
-# #miNombreCompleto = "Isaac Sanchez Monge"
+# #miNombreCompleto = "isaac Sanchez Monge"
 
 # #Variable con snakecase, lo romendado
-# #mi_nombre_completo = "Isaac Sanchez Monge"
+# #mi_nombre_completo = "isaac Sanchez Monge"
 
 # #concatenar con +
-# #nombre =  "Isaac"
+# #nombre =  "isaac"
 # #bienvenida = "Hola " + nombre + " Como estas?"
 # #print(bienvenida)
 
@@ -28,7 +28,7 @@
 
 # edad = 5
 # edad += 5
-# nombre = "Isaac"
+# nombre = "isaac"
 
 # recibida = f"{nombre} tiene {edad} a;os"
 

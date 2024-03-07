@@ -5,7 +5,7 @@
 from modulo_saludar import saludar as saludar_normal,saludar_raro as saludar_como_coscu
 
 #creamos las variables con los saludos
-saludo = saludar_normal("Lucas")
+saludo = saludar_normal("isaac")
 saludo_raro = saludar_como_coscu("Fran")
 
 #mostramos los resultados

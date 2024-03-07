@@ -9,9 +9,18 @@
 #     print(contador)
 
 
-contador = 0
+# contador = 0
  
-while contador < 10:
-    contador += 1
+# while contador < 10:
+#     contador += 1
+#     print(contador)
+
+
+contador = 10
+
+while contador < 30:
+    contador += 2
     print(contador)
+    
+    
     
